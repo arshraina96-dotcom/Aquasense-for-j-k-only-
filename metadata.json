@@ -1,0 +1,6 @@
+{
+  "name": "AquaSense",
+  "description": "AI-assisted geospatial multi-hazard prediction and early-warning platform for Jammu & Kashmir, covering floods, landslides, GLOFs, and extreme weather.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
